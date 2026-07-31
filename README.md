@@ -82,7 +82,7 @@ IncludedTools/NOBU16PK_NewOfficer_KoreanEditor_v1.5.0/
 설치 오류, 오역, UI 깨짐 및 기타 문제는 아래 Discord에서 제보해 주십시오.
 
 - [문의 및 오류 제보 Discord](https://discord.gg/stxhBMxSD)
-
+- [제작자 블로그 ](https://sonagi-psy.tistory.com/))
 오류를 제보할 때 다음 내용을 함께 보내면 확인이 빨라집니다.
 
 - 게임 버전과 Steam 사용 여부
